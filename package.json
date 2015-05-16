@@ -1,0 +1,26 @@
+{
+  "name": "Rally",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vnikiti/rally-game.git"
+  },
+  "keywords": [
+    "rally",
+    "space"
+  ],
+  "author": "Andrew Miller",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/vnikiti/rally-game/issues"
+  },
+  "homepage": "https://github.com/vnikiti/rally-game"
+}
